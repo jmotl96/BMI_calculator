@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BMI_calculator"
+             x:Class="BMI_calculator.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="BMI Calculator" 
+           HorizontalOptions="Center"
+           
+            />
+        
+        
+        <Entry
+            Keyboard="Numeric"
+            Placeholder="Weight in LB"
+            x:Name="Weightin"
+        ></Entry>
+        <StackLayout
+            Orientation="Horizontal">
+            <Entry
+                Keyboard="Numeric"
+                Placeholder="height in ft"
+                x:Name="heightft"
+                ></Entry>
+            <Entry
+                Keyboard="Numeric"
+                Placeholder="height in IN"
+                x:Name="heightin"
+                ></Entry>
+            
+        </StackLayout>
+        
+        <Button
+            Text="submit"
+            Clicked="CalulateBMI"
+            ></Button>
+        <Label
+            x:Name="output"
+            Text="Your BMI"
+            ></Label>
+    </StackLayout>
+
+</ContentPage>

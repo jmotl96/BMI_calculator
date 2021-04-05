@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ALTgQNes8EFopQBs9CJv4tPorcyiH//+FS3W1Z/beMKFcpFx1ZzNR0YIFzHuGeFgjvIyJkvaeW3vtWzpzTD3QA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jmotl\\RiderProjects\\BMI Calculator\\BMI calculator\\BMI calculator.iOS\\BMI calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmotl\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\jmotl\\RiderProjects\\BMI Calculator\\BMI calculator\\BMI_calculator\\BMI_calculator.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\jmotl\\RiderProjects\\BMI Calculator\\BMI calculator\\BMI_calculator\\BMI_calculator.csproj",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

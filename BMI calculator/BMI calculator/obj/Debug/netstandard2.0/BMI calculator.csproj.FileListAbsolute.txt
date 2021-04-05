@@ -1,0 +1,12 @@
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\bin\Debug\netstandard2.0\BMI calculator.deps.json
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\bin\Debug\netstandard2.0\BMI calculator.dll
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\bin\Debug\netstandard2.0\BMI calculator.pdb
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\BMI calculator.csprojAssemblyReference.cache
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\BMI calculator.AssemblyInfoInputs.cache
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\BMI calculator.AssemblyInfo.cs
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\BMI calculator.csproj.CoreCompileInputs.cache
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\BMI calculator.dll
+C:\Users\jmotl\RiderProjects\BMI Calculator\BMI calculator\BMI calculator\obj\Debug\netstandard2.0\BMI calculator.pdb
